@@ -1,0 +1,1 @@
+The project will consist of basic elements like an image, list, relative and absolute links
